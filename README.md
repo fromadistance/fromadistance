@@ -1,7 +1,7 @@
 ## What's up 🔥
 
 - 👨‍🎓 Student at **Georgia Institute of Technology**. 
-- 👽 **Industrial Design** major. 
+- 👽 I'm in **Industrial Design** major. 
 - 🌱 Currently learning **Python** and **Touchdesigner**. 
 - 💡 Personal websites: [LinkedIn](linkedin.com/in/yixiao-zhang-a16290196), [design](https://www.behance.net/yixiao_zhang/), [photography](https://yixiao-photos.tumblr.com/)
 - 📫 How to reach me: <johnundfox01@gmail.com>
