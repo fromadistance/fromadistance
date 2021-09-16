@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 👨‍🎓 Student at **Georgia Institute of Technology**. 
-- 📐 I'm in **Industrial Design** major. 
+- 👽 I'm in **Industrial Design** major. 
 - 🌱 I’m currently learning **python** and **touchdesigner**. 
-- 📫 How to reach me: <johnundfox01@gmail.com>
-- 😄 Pronouns: He/him
+- 📫 How to reach me: **<johnundfox01@gmail.com>**
+- 👍 Pronouns: **He/him**
 
 
 
