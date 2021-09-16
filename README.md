@@ -1,9 +1,10 @@
-### Hi there 👋
+## What's up 🔥
 
 - 👨‍🎓 Student at **Georgia Institute of Technology**. 
 - 👽 I'm in **Industrial Design** major. 
-- 🌱 I’m currently learning **python** and **touchdesigner**. 
-- 📫 How to reach me: **<johnundfox01@gmail.com>**
+- 🌱 I’m currently learning **Python** and **Touchdesigner**. 
+- 💡 Personal websites: [LinkedIn](linkedin.com/in/yixiao-zhang-a16290196), [design](https://www.behance.net/yixiao_zhang/), [photography](https://yixiao-photos.tumblr.com/)
+- 📫 How to reach me: <johnundfox01@gmail.com>
 - 👍 Pronouns: **He/him**
 
 
